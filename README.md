@@ -40,8 +40,6 @@ Then use start.py --config config.json to start the honeypot
 7- "exploit"
 
 # Caldera commands:
--curl http://192.168.56.104
-
 -clone to caldera: git clone https://github.com/mitre/caldera.git --recursive
 
 -python3 server.py --insecure
